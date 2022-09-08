@@ -7,7 +7,7 @@
 
 - 💼 Ausbildung als **Fachinformatiker für Systemintegration**
 
-- 🌱 Aktuelle Sprachen die ich lerne: **C#, Javscript, PHP**
+- 🌱 Aktuelle Sprachen die ich lerne: **C#, Javascript, PHP**
 
 
 <h3 align="left">Languages and Tools:</h3>
