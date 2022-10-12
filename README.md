@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callediefalle&label=Profilaufrufe&color=225908&style=flat-square" alt="callediefalle" /> </p>
 
-- 🔭 Aktuell arbeite ich an **Webseitengestaltung und -funktionen**
-
 - 💼 Ausbildung als **Fachinformatiker für Systemintegration**
-
-- 🌱 Aktuelle Sprachen die ich lerne: **C#, Javascript, PHP**
 
 
 <h3 align="left">Languages and Tools:</h3>
